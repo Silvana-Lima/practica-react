@@ -1,0 +1,23 @@
+.cards{
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+  background-color: rgb(240, 172, 172);
+  margin: 15px;
+  text-align: center;
+}
+
+button{
+  width: 200px;
+  height: 40px;
+  border: none;
+  background-color: lightpink;
+  font-weight: bold;
+}
+
+button:hover{
+  background-color: white;
+}
